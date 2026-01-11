@@ -6,8 +6,8 @@ days_hist = np.array([0, 1, 2, 3, 4, 5, 9, 10, 11])
 
 moisture_hist = np.array([79.83, 78.15, 73.56, 59.90, 61.43, 66.65, 75.80, 74.43, 68.45])
 
-CRITICAL_THRESHOLD = 35.0
-WARNING_THRESHOLD = 48.0
+CRITICAL_THRESHOLD = 40.0
+WARNING_THRESHOLD = 50.0
 
 print("--- MEMULAI PROSES LEARNING ---")
 
